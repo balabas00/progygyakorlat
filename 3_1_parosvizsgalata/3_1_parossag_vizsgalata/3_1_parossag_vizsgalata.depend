@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1632391821 source:c:\progygyakgit\3_1_parosvizsgalata\3_1_parossag_vizsgalata\main.c
+	<stdio.h>
+	<stdlib.h>
+
